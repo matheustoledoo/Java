@@ -2,6 +2,7 @@ package Secao1_Fundamentos;
 
 public class Wrapper {
     public static void main(String[] args) {
+
         // ----------- TIPOS PRIMITIVOS E WRAPPERS -----------
 
         // Declara um Byte com valor 100

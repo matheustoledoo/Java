@@ -15,7 +15,7 @@ public class Conversao {
 
         double valor = 3.14;
 
-        // Outra forma:
+        // String para inteiro
         String texto2 = String.valueOf(valor);
 
         System.out.println(texto2); // Saída: "3.14"

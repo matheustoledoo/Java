@@ -4,12 +4,9 @@ import java.util.Date;
 
 public class VariaveisAndConstantes {
     public static void main(String[] args) {
-        var raio = 3.4;
+
+        var raio = 3.4; // Ele identifica o tipo da variavel, mas não é tao recomendado, penas para links, api, caminho para pastas...
         final double pi = 3.14; // com o final na frente vira uma constante
-
-        //ou
-
-        String s1 = new String("ola");
 
         System.out.println(pi * raio * raio);
 
